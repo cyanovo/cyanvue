@@ -2,7 +2,7 @@
 
 hello
 
-## Project setup
+## 下载依赖
 ```
 npm install
 ```
